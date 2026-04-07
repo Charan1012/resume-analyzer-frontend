@@ -1,8 +1,8 @@
-# AI Resume Analyzer - Client Documentation
+# HireAI - Client Documentation
 
 ## Overview
 
-This repository contains the frontend user interface for the **AI Resume Analyzer** application. It is built with **React**, **Vite**, **Material-UI**, and **Tailwind CSS**, and is designed to run separately from the backend.
+This repository contains the frontend user interface for the **HireAI** application. It is built with **React**, **Vite**, **Material-UI**, and **Tailwind CSS**, and is designed to run separately from the backend.
 
 The client is suitable for deployment on **Vercel**.
 
